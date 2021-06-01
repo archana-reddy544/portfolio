@@ -1,0 +1,32 @@
+html {
+    min-height: 100%;
+    background-image: url('https://previews.123rf.com/images/kaspri/kaspri1309/kaspri130900016/22621582-blank-empty-grunge-vintage-photo-album-textured-page-background-old-aged-stained-texture-vertical-po.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.name{
+    text-align: center;
+    justify-content: center;
+    font-style: italic;
+    padding: 200px;
+}
+
+.nav-bar {
+    margin-top: 25px;
+    margin-right: 50px;
+    float: right;
+}
+.nav-bar a{
+    text-align: none;
+    color: black;
+    padding: 5px 28px;
+    border: 1px solid transparent;
+    transition: 0.6s ease;
+    font-size: 20px;
+}
+
+p{
+    font-size: 20px;
+}
